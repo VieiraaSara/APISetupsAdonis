@@ -15,3 +15,24 @@ Quais as funções que a API é capaz de fazer?
 
 
 // Gostaria de agradecer ao Matheus que disponibilizou este curso com uma ótima didática para ensinar conceitos que são tão utilizados
+
+
+
+
+#APISetupsAdonis
+
+An API with CRUD concepts and relationships, developed in Matheus Battisti's Adonis js Course.
+
+I modified some things and instead of creating an API for a momentary sharing site (proposed in the course), I created an API to share Setup posts.
+
+What functions is the API capable of performing?
+
+  - Add setup post with photo, title and description
+  - Check all added settings posts in database
+  - Check post settings by ID
+  - Delete config post by ID
+  - Update config post by ID
+  - Add a comment to a post by ID relationship
+
+
+// I would like to thank Matheus who provided this course with great teaching to teach concepts that are so widely used
